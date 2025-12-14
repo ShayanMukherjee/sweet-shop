@@ -136,6 +136,4 @@ Improve UI/UX patterns and layout decisions
 Validate role-based access control and authentication flow
 
 All AI-generated suggestions were carefully reviewed, understood, and manually integrated into the project.
-AI significantly improved development speed and helped maintain code quality under strict time constraints.
-npm install
-npm run dev
+AI significantly improved development speed and helped maintain code quality under strict time constraints
