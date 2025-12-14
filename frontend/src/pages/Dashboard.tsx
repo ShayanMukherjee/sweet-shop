@@ -242,14 +242,15 @@ const card = (theme: any) => ({
 
 const input = {
   width: "100%",
-  padding: "12px",
+  padding: 12,
   marginTop: 8,
   borderRadius: 10,
   border: "1px solid #1e293b",
   background: "#020617",
   color: "white",
-  fontSize: 14,
+  boxSizing: "border-box" as const,
 };
+
 
 const pill = (theme: any) => ({
   padding: "8px 16px",
